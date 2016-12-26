@@ -28,3 +28,6 @@ target/
 # Angular
 ######################
 node_modules/
+
+# Tsung
+src/test/tsung/log/
