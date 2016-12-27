@@ -1,33 +1,9 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
-
-
-
-######################
 # Intellij
-######################
 .idea/**
 *.iml
-*.iws
-*.ipr
-*.ids
-*.orig
 
-
-######################
 # Maven
-######################
 target/
-.mvn/
-
-######################
-# Angular
-######################
-node_modules/
 
 # Tsung
-src/test/tsung/log/
+src/test/docker/resources/tsung/logs
